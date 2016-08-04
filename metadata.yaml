@@ -1,0 +1,48 @@
+_repo: Philebus_1744
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: In The Tragedy and Comedy of Life, Seth Benardete focuses on the idea
+  of the good in what is widely regarded as one of Plato's most challenging and complex
+  dialogues, the Philebus. Traditionally the Philebus is interpreted as affirming
+  the doctrine that the good resides in thought and mind rather than in pleasure or
+  the body. Benardete challenges this view, arguing that Socrates vindicates the life
+  of the mind over against the life of pleasure not by separating the two and advocating
+  a strict asceticism, but by mixing pleasure and pain with mind in such a way that
+  the philosophic life emerges as the only possible human life. Benardete combines
+  a probing and challenging commentary that subtly mirrors and illumines the complexities
+  of this dialogue with the finest English translation of the Philebus yet available.
+  The result is a work that will be of great value to classicists, philosophers, and
+  political theorists alike.
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcsh 'Pleasure -- Early works to 1800'
+- !lcc 'B'
+- !lcc 'PA'
+- GITenberg
+title: Philebus
+url: http://www.gutenberg.org/ebooks/1744
